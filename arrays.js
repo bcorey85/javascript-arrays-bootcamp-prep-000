@@ -59,7 +59,12 @@ function destructivelyAddElementToBeginningOfArray(array,element){
   array.
 }
 
-addElementToEndOfArray 
+function addElementToEndOfArray(array, element){
+  
+}
 
+function destructivelyAddElementToEndOfArray(array, element){
+  
+}
 
 
