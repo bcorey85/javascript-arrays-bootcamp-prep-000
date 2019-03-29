@@ -55,8 +55,8 @@ function addElementToBeginningOfArray(array, element){
   return array
 }
 
-function destructivelyAddElementToBeginningOfArray(){
-  
+function destructivelyAddElementToBeginningOfArray(array,element){
+  array.
 }
 
 
