@@ -59,5 +59,7 @@ function destructivelyAddElementToBeginningOfArray(array,element){
   array.
 }
 
+addElementToEndOfArray 
+
 
 
